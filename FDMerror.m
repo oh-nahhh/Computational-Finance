@@ -1,5 +1,6 @@
 %Group 1 - Assignment 3
 
+
 clear all; close all;
 %Parameters
 K = 15; % Strike price
